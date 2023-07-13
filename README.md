@@ -19,7 +19,7 @@ Please save a copy of this file in your drive [Go to File \> (Click) Save a copy
 <img width="416" alt="kk" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/cb1a895e-236d-461e-8fb6-642fb1198b95">
 
 
-3\. Before processing, please put your Openai API Key in the code. If you don’t have one, no worries. Please [click here to create your](https://platform.openai.com/account/api-keys).
+3\. Before processing, please put your Openai API Key in the code. If you don’t have one, no worries. Please [click here to create your Openai API Key](https://platform.openai.com/account/api-keys).
 After you have already created your Openai API Key, please copy it and paste it in the code according to the picture. Then run the code until this cell.
 
 <img width="394" alt="yy" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/43b471ca-7e9e-4193-ae4d-b106bc5f11bc">
