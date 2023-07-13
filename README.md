@@ -25,7 +25,15 @@ This GitHub repository offers a template specifically designed to teach students
 
 ## Results
 
-[Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
+
+The implemented NCCU's Guide Chat Bot successfully provides information about NCCU buildings based on user queries. The chatbot utilizes the "llama-index" library for efficient indexing and querying of the building data. The "get-3.5-turbo" language model generates accurate and context-aware responses.
+
+Users can interact with the chatbot by inputting their questions about NCCU buildings. The chatbot then processes the queries and provides informative responses based on the available data. The responses are displayed in the user interface, allowing users to obtain the desired information easily. The combination of the "llama-index" library and the "get-3.5-turbo" language model resulted in an efficient system for indexing, querying, and generating accurate responses. Although the image feature mentioned in the code was not functioning correctly, the overall chatbot functionality is intact.
+
+Further improvements can be made by expanding the dataset, refining prompts, and incorporating additional features based on user feedback. The NCCU's Guide Chat Bot serves as a useful tool for users to explore and learn about the buildings at NCCU.
+
+
+
 
 ## Contributors
 
