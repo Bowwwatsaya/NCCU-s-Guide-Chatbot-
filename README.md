@@ -16,25 +16,25 @@ Our project is available on Google Collab which is a website that allows you to 
 
 Please save a copy of this file in your drive [Go to File \> (Click) Save a copy in Drive]
 
-![Picture9](https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/64ff8daa-de04-41f2-a18e-6739d952ab87)
+<img width="416" alt="kk" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/cb1a895e-236d-461e-8fb6-642fb1198b95">
+
 
 3\. Before processing, please put your Openai API Key in the code. If you don’t have one, no worries. Please [click here to create your](https://platform.openai.com/account/api-keys).
 After you have already created your Openai API Key, please copy it and paste it in the code according to the picture. Then run the code until this cell.
 
-![Picture2](https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/3dd9d308-fea5-4cf2-bb3a-69520239d9e1)
+<img width="394" alt="yy" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/43b471ca-7e9e-4193-ae4d-b106bc5f11bc">
 
 
 4.After you finished uploading the dataset file to your Google Drive and already ran API code. (Click) File at the left bar \> drive \> my drive and find the dataset file. Then copy path the link and paste it at this code
 
-![Picture3](https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/5c4f4125-0bf5-4b29-9bf1-d29497f1752e)
-![Picture5](https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/61004d88-9e7d-4465-b352-7abc035ad101)
+<img width="149" alt="pp" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/e056ae00-eff8-4278-9b21-b2ebed716616">
+
+<img width="410" alt="image" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/4da4750a-7e1e-429a-8a48-680692274f09">
 
 
 5\. Run all the code
 
 6\. Enjoy using our NCCU’s Guide chatbot by putting your questions or queries on Gradio and see the results.
-<img width="451" alt="Picture6" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/927ea82e-1c3f-44d7-8e3e-58fc63bbf9ec">
-
 
 ## :file_folder:File Structure
 
@@ -60,7 +60,7 @@ For user interaction, we develop a question-answer prompt template and use the "
 In summary, our analysis involves data collection, library setup, querying with llama-index, and creating a user-friendly chatbot interface.The main insight gained from our chatbot is the ability to ask questions about NCCU buildings and receive answers based on the information available in the dataset. This is related to our previous problem statement ‘How to navigate the NCCU campus’.
 
 ## :mag_right: Results
-<img width="452" alt="Picture7" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/6d7ce0ca-c330-40f0-ab84-6322400935c5">
+<img width="569" alt="aa" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/f0494769-3016-4d2e-9af7-c66d458104de">
 
 The implemented NCCU's Guide Chat Bot successfully provides information about NCCU buildings based on user queries. The chatbot utilizes the "llama-index" library for efficient indexing and querying of the building data. The "get-3.5-turbo" language model generates accurate and context-aware responses.
 
