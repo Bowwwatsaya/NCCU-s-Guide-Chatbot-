@@ -4,7 +4,8 @@ This GitHub repository offers a template specifically designed to teach students
 
 # Project Title
 
-[Enter the title of your project]
+[Enter the
+
 
 ## Project Description
 
