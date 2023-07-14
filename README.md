@@ -79,7 +79,6 @@ Edric Kee Hong Zhao 紀宏釗 - data collection and presentation
 
 ## :busts_in_silhouette: Acknowledgments
 
-[Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
 We would like to sincerely thank Professor Pien Chung-Pei, our instructor for Introduction to AI class, for his advice and assistance throughout the development of our NCCU's Guide Chatbot project. His expertise and knowledge have been helpful for developing our project and guiding us in overcoming obstacles.
 
 We also would like to deeply appreciate other teams who provided assistance and support during the development of our NCCU's Guide Chatbot project. Their collaboration, feedback, and contributions have been invaluable in improving the functionality and effectiveness of our chatbot.
