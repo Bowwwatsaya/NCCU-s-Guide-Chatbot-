@@ -72,7 +72,7 @@ Further improvements can be made by expanding the dataset, refining prompts, and
 ## :brain: Contributors
 
 Karin Sumritluan 陳琪玲 : poster, data collection, Git-hub, presentation
-Natcha Jaibumrung 文晶晶 : coding, data collection, Git-hub, Presentation
+Natcha Jaibumrung 黃文晶 : coding, data collection, Git-hub, Presentation
 Ratchadaporn Leungphetngam 陳秋天 : coding, data collection, Git-hub, and presentation
 Watsayaporn Srimueanghao 史沃天 : coding, data collection, Git-hub, and presentation
 Edric Kee Hong Zhao 紀宏釗 - data collection and presentation
