@@ -32,7 +32,7 @@ After you have already created your Openai API Key, please copy it and paste it 
 <img width="410" alt="image" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/4da4750a-7e1e-429a-8a48-680692274f09">
 
 
-5\. Run all the code
+5\. Run all the Python code
 
 6\. Enjoy using our NCCU’s Guide chatbot by putting your questions or queries on Gradio and see the results.
 
@@ -62,7 +62,7 @@ In summary, our analysis involves data collection, library setup, querying with 
 ## :mag_right: Results
 <img width="569" alt="aa" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/f0494769-3016-4d2e-9af7-c66d458104de">
 
-The implemented NCCU's Guide Chat Bot successfully provides information about NCCU buildings based on user queries. The chatbot utilizes the "llama-index" library for efficient indexing and querying of the building data. The "get-3.5-turbo" language model generates accurate and context-aware responses.
+Our NCCU's Guide Chatbot successfully responds to user inquiries by providing details about NCCU buildings. The chatbot utilizes the "llama-index" library for efficient indexing and querying of the building data. The "get-3.5-turbo" language model generates accurate and context-aware responses.
 
 Users can interact with the chatbot by inputting their questions about NCCU buildings. The chatbot then processes the queries and provides informative responses based on the available data. The responses are displayed in the user interface, allowing users to obtain the desired information easily. The combination of the "llama-index" library and the "get-3.5-turbo" language model resulted in an efficient system for indexing, querying, and generating accurate responses. Although the image feature mentioned in the code was not functioning correctly, the overall chatbot functionality is intact.
 
