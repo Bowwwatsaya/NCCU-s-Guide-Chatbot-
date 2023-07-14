@@ -76,11 +76,14 @@ Further improvements can be made by expanding the dataset, refining prompts, and
 
 ## :brain: Contributors
 
-Karin Sumritluan 陳琪玲 : poster, data collection, Git-hub, presentation
-Natcha Jaibumrung 黃文晶 : coding, data collection, Git-hub, Presentation
-Ratchadaporn Leungphetngam 陳秋天 : coding, data collection, Git-hub, and presentation
-Watsayaporn Srimueanghao 史沃天 : coding, data collection, Git-hub, and presentation
-Edric Kee Hong Zhao 紀宏釗 - data collection and presentation
+| :anchor: **Team member**          | :pencil: **Role & Responsibility**            |
+|-----------------------------------|-----------------------------------------------|
+| Karin Sumritluan 陳琪玲           | Poster, Data Collection, GitHub, Presentation |
+| Natcha Jaibumrung 黃文晶          | Coding, Data Collection, GitHub, Presentation |
+| Ratchadaporn Leungphetngam 陳秋天 | Coding, Data Collection, GitHub, Presentation |
+| Watsayaporn Srimueanghao 史沃天   | Coding, Data Collection, GitHub, Presentation |
+| Edric Kee Hong Zhao 紀宏釗        | Data Collection, Presentation                 |
+
 
 ## :busts_in_silhouette: Acknowledgments
 
