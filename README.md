@@ -11,15 +11,11 @@ Our project is available on Google Collab which is a website that allows you to 
 
 1\. Download the building information dataset and upload it to your Google Drive. [Click here to download the building dataset](https://docs.google.com/spreadsheets/d/1dmc4Ky6EDZLD6zuzny7ENDGRd7iMZXSi/edit?pli=1#gid=526785390)
 
-2\. Go to our project Colab link below.
-[Click here to open our project Colab](https://colab.research.google.com/drive/1ge4b-3qHhqCWXI-to1mOVUTRDN80w2Tz?usp=sharing)
-
-Please save a copy of this file in your drive [Go to File \> (Click) Save a copy in Drive]
+2\. Before processing, Please save a copy of this file in your drive [Go to File \> (Click) Save a copy in Drive]
 
 <img width="416" alt="kk" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/cb1a895e-236d-461e-8fb6-642fb1198b95">
 
-
-3\. Before processing, please put your Openai API Key in the code. If you don’t have one, no worries. Please [click here to create your Openai API Key](https://platform.openai.com/account/api-keys).
+3\.Put your Openai API Key in the code. If you don’t have one, no worries. Please [click here to create your Openai API Key](https://platform.openai.com/account/api-keys).
 After you have already created your Openai API Key, please copy it and paste it in the code according to the picture. Then run the code until this cell.
 
 <img width="394" alt="yy" src="https://github.com/Bowwwatsaya/NCCU-s-Guide-Chatbot-/assets/96362159/43b471ca-7e9e-4193-ae4d-b106bc5f11bc">
@@ -56,6 +52,15 @@ In our project, we collected building data from qrysub.nccu.edu.tw and organized
 
 Our analysis involves using the "llama-index" module to create a question-answering system for the NCCU Buildings dataset. We set the OpenAI API key and install libraries like pandas and llama-index for modifying data and indexing. We read the data from the Excel file into a Pandas dataframe and create a GPTPandasIndex for efficient querying. The LLMPredictor, PromptHelper, and ServiceContext modules manage language model selection and parameter settings.
 For user interaction, we develop a question-answer prompt template and use the "ask_ai" function's query engine to produce answers based on user input. Finally, we use Gradio to build a user interface that can be launched and shared with others. 
+
+| Module/Class    | Description | 
+| :---:           |:---         |
+| `GPTPandasIndex`   | A custom index built using the llama_index library. It enables efficient querying of the dataset based on natural language questions.        | 
+| `LLMPredictor`     | A language model predictor from the llama_index library. Specifically, the gpt-3.5-turbo model is used for generating responses to the queries.|  
+| `PromptHelper` 	   |Helps in managing prompts by chunking the input data and generating suitable prompts for the language model.
+| `ServiceContext`	 |Provides a context for interacting with the language model and prompt generation.
+| `QuestionAnswerPrompt` |A template prompt used for generating questions based on the provided context.
+| `Gradio`            |A library for building user interfaces for machine learning models. It is used to create a simple text-based interface for querying the system.
 
 In summary, our analysis involves data collection, library setup, querying with llama-index, and creating a user-friendly chatbot interface.The main insight gained from our chatbot is the ability to ask questions about NCCU buildings and receive answers based on the information available in the dataset. This is related to our previous problem statement ‘How to navigate the NCCU campus’.
 
