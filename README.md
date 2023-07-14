@@ -95,9 +95,9 @@ Lastly, thank you to each member of the team who is involved in this project. Yo
 
 ## :page_facing_up: References
 1.The NCCU building data source
-<https://www.google.com/maps>
-<https://qrysub.nccu.edu.tw./>
-<http://sgnweb.nccu.edu.tw/mnccu/>
+* Building name : <https://qrysub.nccu.edu.tw./>
+* Bus stop : <http://sgnweb.nccu.edu.tw/mnccu/>
+* Google map : <https://www.google.com/maps>
 
 2.Model Reference <https://huggingface.co/llamaindex>
 
